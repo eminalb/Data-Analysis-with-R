@@ -39,7 +39,7 @@ R packages:
 - `MASS`
 - `tidyverse`
 
-## Authors
-- **Ege John Isik** (302991)  
+## Authors  
 - **Muhammet Emin Albayram** (303991)
+- **Ege John Isik** (302991)
 
